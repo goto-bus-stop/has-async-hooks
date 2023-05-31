@@ -7,7 +7,7 @@
     "url": "https://github.com/goto-bus-stop/has-async-hooks/issues"
   },
   "devDependencies": {
-    "standard": "^14.3.1"
+    "standard": "^17.1.0"
   },
   "homepage": "https://github.com/goto-bus-stop/has-async-hooks",
   "keywords": [
